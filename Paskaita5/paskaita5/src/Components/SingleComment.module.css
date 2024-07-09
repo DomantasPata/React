@@ -1,0 +1,14 @@
+.div:hover {
+  color: black;
+  background-color: white;
+  cursor: pointer;
+}
+
+.border {
+  border: 1px solid white;
+  margin-bottom: 20px;
+}
+
+span {
+  color: red;
+}
